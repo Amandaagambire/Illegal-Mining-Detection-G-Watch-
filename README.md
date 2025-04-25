@@ -19,4 +19,7 @@ This project uses Sentinel-2 satellite imagery and machine learning (U-Net + NDV
 
 <img src="docs/example_visual.png" width="600"/>
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ---
